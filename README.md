@@ -1,7 +1,7 @@
 # Swifui Sample Login Page
 # Swifui Basit Login Sayfası
 
-Bu proje, SwiftUI kullanarak basit bir login sayfası oluşturdum.
+Bu projede SwiftUI kullanarak basit bir login sayfası oluşturdum.
 
 ## Özellikler
 
